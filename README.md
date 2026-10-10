@@ -13,6 +13,11 @@ The project uses SQL and Tableau to transform data into meaningful visualization
 ## Tableau Dashboard
 
 ![Supermart Sales and Profit Analysis Dashboard](Screenshot%202026-10-10%20at%2012.07.16%20PM.png)
+## Live Tableau Dashboard
+
+Explore the interactive dashboard on Tableau Public:
+
+**[View Supermart Sales and Profit Analysis Dashboard](https://public.tableau.com/views/SupermartSalesandProfitAnalysis_17915182524470/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)**
 
 ## Tableau Dashboard Preview
 
