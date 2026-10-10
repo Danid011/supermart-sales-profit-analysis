@@ -45,6 +45,19 @@ The project uses SQL and Tableau to transform data into meaningful visualization
 These findings suggest that high discount levels may significantly reduce profitability.
 
 *Note: Confirm the reporting currency and validate the figures against the underlying dataset before publication.*
+## SQL Analysis
+
+The SQL scripts used in this project cover data quality checks, overall business metrics, sales and profit analysis by category, subcategory profitability, and discount profitability.
+
+**SQL scripts:** [View SQL Analysis Files](./sql/)
+
+### Scripts Included
+
+1. `01_data_quality_checks.sql` — Data quality checks
+2. `02_overall_business_metrics.sql` — Overall business metrics
+3. `03_sales_profit_by_category.sql` — Sales and profit by category
+4. `04_subcategory_profitability.sql` — Subcategory profitability
+5. `05_discount_profitability.sql` — Discount profitability
 
 ## Business Recommendations
 
