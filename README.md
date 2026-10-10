@@ -10,6 +10,9 @@ Supermart Sales and Profit Analysis (2014–2017) using SQL and Tableau. Explore
 This project analyses Supermart sales data from 2014 to 2017 to understand sales performance, product profitability, and the impact of discounts on business outcomes.
 
 The project uses SQL and Tableau to transform data into meaningful visualizations and business insights.
+## Tableau Dashboard Preview
+
+The dashboard provides an overview of sales performance, category profitability, sales trends from 2014 to 2017, subcategory profit, and the impact of discount levels on profitability.
 
 ## Objectives
 
